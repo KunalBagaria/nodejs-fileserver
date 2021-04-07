@@ -10,3 +10,10 @@
 2. Replace `app.listen(process.env.PORT)` to `app.listen(8000)` Index.js
 3. Install the packages using `npm install` or `yarn install`
 4. Run the code using `node index.js`
+
+### To upload files:
+1. Visit /upload
+2. Upload!
+
+### To view upload files:
+1. Visit /filename.ext
