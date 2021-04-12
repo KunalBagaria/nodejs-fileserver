@@ -14,5 +14,5 @@
 1. Visit /upload
 2. Upload!
 
-### To view upload files:
+### To view uploaded files:
 1. Visit /filename.ext
